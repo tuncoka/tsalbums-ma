@@ -1,0 +1,3 @@
+rootProject.name = 'tsalbums'
+
+include ':app'
